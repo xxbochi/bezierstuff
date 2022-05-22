@@ -1,0 +1,11 @@
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.csproj.AssemblyReference.cache
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.csproj.SuggestedBindingRedirects.cache
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.Form1.resources
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.Properties.Resources.resources
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.csproj.GenerateResource.cache
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.csproj.CoreCompileInputs.cache
+C:\Users\23tho\source\repos\Bezani\Bezani\bin\Debug\Bezani.exe.config
+C:\Users\23tho\source\repos\Bezani\Bezani\bin\Debug\Bezani.exe
+C:\Users\23tho\source\repos\Bezani\Bezani\bin\Debug\Bezani.pdb
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.exe
+C:\Users\23tho\source\repos\Bezani\Bezani\obj\Debug\Bezani.pdb
